@@ -20,7 +20,7 @@ La methode de spark approche mieux la valeur exacte.
 
 La methode de spark utilise plus du temps que numpy.
 
-On n plus grandes on aproche assez vers la valeur exacte.
+Pour les n assez grandes on approche plus vers la valeur exacte.
 
 
 
