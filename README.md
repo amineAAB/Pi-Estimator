@@ -14,13 +14,13 @@ Tableau pour n=100000
 
 ![3](https://user-images.githubusercontent.com/75859280/104518740-7352f900-55f8-11eb-9aa8-318fbd547d0b.png)
 
-# Remarque 
+# Remarques
 
 La methode de spark approche mieux la valeur exacte.
 
 La methode de spark utilise plus du temps que numpy.
 
-On n plus grandes on aproche plus vers la valeur exacte.
+On n plus grandes on aproche assez vers la valeur exacte.
 
 
 
